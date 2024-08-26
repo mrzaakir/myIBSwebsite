@@ -46,7 +46,7 @@ img{
 }
 
 .ibs{
-     font-family: "Permanent Marker", cursive;
+     /* font-family: "Permanent Marker", cursive; */
      color: var(--fivth-color);
      font-size: 1.5rem;
      font-weight: bolder;
